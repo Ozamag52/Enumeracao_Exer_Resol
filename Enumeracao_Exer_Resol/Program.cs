@@ -6,7 +6,7 @@ namespace Enumeracao_Exer_Resol
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
